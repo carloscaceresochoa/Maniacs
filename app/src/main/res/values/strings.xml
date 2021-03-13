@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Maniacs</string>
+    <string name="usert">Ingresa Email</string>
+    <string name="passt">Ingresa Contraseña</string>
+    <string name="inict">INICIAR SESION</string>
+    <string name="regt">REGISTRARSE</string>
+</resources>
